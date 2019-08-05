@@ -1,0 +1,10 @@
+name: Lab_Metodos
+channels:
+        - default
+dependencies:
+        - numpy
+        - pandas
+        - scipy
+        - matplotlib
+        - seaborn
+        - scikit-learn
