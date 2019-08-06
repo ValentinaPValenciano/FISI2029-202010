@@ -26,8 +26,8 @@ __Importante:__ Dado que el hecho de tener un sistema operativo linux o una term
 Clases y tareas:
 ================
 
-1. (2019-08-06) Python introduction: variables, conditionals lists and loops.  [Slides](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/2/Intro.slides.html#/)
+1. (__2019-08-06__) Python introduction: variables, conditionals lists and loops.  [Slides](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/1/Intro.slides.html#/)
 
-2. (2019-08-13) Python introduction 2: Lists, Strings  and functions.
+2. (__2019-08-13__) Python introduction 2: Lists, Strings  and functions.
 
-3. (2019-08-20) python intermediate: Numpy Basics: Lists vs Array. fit plots. Numpy examples
+3. (__2019-08-20__) python intermediate: Numpy Basics: Lists vs Array. fit plots. Numpy examples
