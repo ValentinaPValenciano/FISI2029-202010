@@ -9,8 +9,11 @@ Para quienes no tengan ``python`` instalado encontrarán en el siguiente enlace 
 [![Binder](http://mybinder.org/badge_logo.svg)](http://beta.mybinder.org/v2/gh/ComputoCienciasUniandes/FISI2029-201920/master)
 
 __Usar esto sólo en el caso en el que se vea forzado. Binder es una plataforma que ofrece un servidor gratis y por ende aveces suele perder soporte. Si les llega a pasar eso durante la clase, no será una excusa valida el no haber trabajado por que Binder no funcionaba, deben tener python en sus computadores, más precisamente requieren tener acceso a una terminal de Linux.__
-* Se recomienda tener acceso a una maquina linux, ya sea haciendo uso de una maquina virtual o que se instale en una maquina local. No existe una distribución de preferencia de Linux para este curso, usted es libre de escoger la que más le guste
-![imagen](https://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg). Se recomienda usar Ubuntu en cualquiera de sus distribuciones LTS. En el siguiente [link](https://ubuntu.com/download/desktop) encontrarán como descargarlo e instalarlo
+* Se recomienda tener acceso a una maquina linux, ya sea haciendo uso de una maquina virtual o que se instale en una maquina local. No existe una distribución de preferencia de Linux para este curso, usted es libre de escoger la que más le guste, en la siguiente imagen se muestran las distribuciones existentes de linux. (como verá son muchas)
+
+![imagen](https://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg)
+
+Se recomienda usar Ubuntu en cualquiera de sus distribuciones LTS. En el siguiente [link](https://ubuntu.com/download/desktop) encontrarán como descargarlo e instalarlo
 * Para las personas que usen MAC no deben adquirir cambiar su sistema operativo, MAC está construido sobre una arquitectura similar a la de Linux y por ende los comandos de Linux funcionarán en MAC. Sin embargo, para que puedan trabajar en todos los contenidos del curso es necesario que instalen un complemento, el cual se llama [HomeBrew](https://brew.sh/), con este podrán instalar los compiladores.
 * Por ultimo para las personas que utilicen Windows y no deseen cambiarse de sistema operativo existe una versión de una terminal de Linux para mac con el soporte de Canonical (Los mismos creadores de Ubuntu) para poder acceder a todos los comandos tendrán que [descargarla](https://www.microsoft.com/en-us/p/ubuntu/9nblggh4msv6?activetab=pivot:overviewtab) e instalarla.
 
