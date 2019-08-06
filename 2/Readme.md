@@ -2,7 +2,7 @@
 En el presente repositorio encontrarán los ejercicios de la clase publicados, al igual que una seríe de presentaciones de las cuales se basan los ejercicios.
 
 
-Para quienes no tengan ``python`` instalado encontrarán en el siguiente enlace un ambiente a un Jupyter-notebook. 
+Para quienes no tengan ``python`` instalado encontrarán en el siguiente enlace un ambiente a un Jupyter-notebook.
 
 
 
@@ -20,8 +20,14 @@ Se recomienda usar Ubuntu en cualquiera de sus distribuciones LTS. En el siguien
 * Por ultimo para las personas que utilicen Windows y no deseen cambiarse de sistema operativo existe una versión de una terminal de Linux para Windows 10 con el soporte de Canonical (Los mismos creadores de Ubuntu) para poder acceder a todos los comandos tendrán que [descargarla](https://www.microsoft.com/en-us/p/ubuntu/9nblggh4msv6?activetab=pivot:overviewtab) e instalarla.
 
 
-__Importante:__ Dado que el hecho de tener un sistema operativo linux o una terminal como la de linux no nos asegura el poder trabajar con ``python`` haciendo uso de sus distintas librerias. Es necesario instalar alguna versión de ``python3`` para esto se sugiere hacer la instalación por medio de [Anaconda](https://www.anaconda.com/distribution/) ya que este software permite hacer un manejo de ambientes y así constrolar más facilmente que no haya conflicto entre las librerías. 
+__Importante:__ Dado que el hecho de tener un sistema operativo linux o una terminal como la de linux no nos asegura el poder trabajar con ``python`` haciendo uso de sus distintas librerias. Es necesario instalar alguna versión de ``python3`` para esto se sugiere hacer la instalación por medio de [Anaconda](https://www.anaconda.com/distribution/) ya que este software permite hacer un manejo de ambientes y así constrolar más facilmente que no haya conflicto entre las librerías.
 
 
+Clases y tareas:
+================
 
+1. (2019-08-06) Python introduction: variables, conditionals lists and loops.  [Slides](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/2/Intro.slides.html#/)
 
+2. (2019-08-13) Python introduction 2: Lists, Strings  and functions.
+
+3. (2019-08-20) python intermediate: Numpy Basics: Lists vs Array. fit plots. Numpy examples
