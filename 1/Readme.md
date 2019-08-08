@@ -29,6 +29,6 @@ Clases y tareas:
 
 1. (__2019-08-06__) Python introduction: variables, conditionals lists and loops.  [Slides](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/1/Intro.slides.html#/)
 
-2. (__2019-08-13__) Python introduction 2: Lists, Strings  and functions.
+2. (__2019-08-13__) Python introduction 2: Lists, Strings  and functions. [Slides](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/1/List_Strings_Functions.slides.html#/)
 
 3. (__2019-08-20__) python intermediate: Numpy Basics: Lists vs Array. fit plots. Numpy examples
