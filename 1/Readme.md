@@ -31,6 +31,6 @@ Clases y tareas:
 
 2. (__2019-08-13__) Python introduction 2: Lists, Strings  and functions. [Slides](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/1/List_Strings_Functions.slides.html#/) [Problemas](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/1/Exercise%20Lists%2C%20Functions%2C%20Strings.html) [pdf](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/1/Exercise_Lists_Functions_Strings.pdf)
 
-3. (__2019-08-20__) python intermediate: Numpy Basics: Lists vs Array. fit plots. Numpy examples [Slides](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/1/Numpy_Basics_slides.pdf)
+3. (__2019-08-20__) python intermediate: Numpy Basics: Lists vs Array. fit plots. Numpy examples [Slides](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/1/Numpy_Basics_slides.pdf), [Exercises](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/1/Exercise%203.html)
 
 4. (__2019-08-27__) Understanding Numpy and data structure [Slides](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/2/Numpy.html)
