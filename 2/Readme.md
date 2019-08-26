@@ -28,7 +28,7 @@ Clases y tareas:
 
 1. (__2019-08-06__) Python introduction: variables, conditionals lists and loops.  [Slides](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/2/Intro.slides.html#/) [Solutions](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/2/Solutions.pdf)
 
-2. (__2019-08-14__) Python introduction 2: Lists, Strings  and functions. [Slides](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/2/List_Strings_Functions.slides.html#/) [Problemas](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/2/Exercise%20Lists%2C%20Functions%2C%20Strings.html) [pdf](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/2/Exercise_Lists_Functions_Strings.pdf)
+2. (__2019-08-14__) Python introduction 2: Lists, Strings  and functions. [Slides](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/2/List_Strings_Functions.slides.html#/) [Problemas](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/2/Exercise%20Lists%2C%20Functions%2C%20Strings.html) [pdf](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/2/Exercise_Lists_Functions_Strings.pdf) [Solución](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/2/Solucion_3_Problemas.html)
 
 3. (__2019-08-21__) python intermediate: Numpy Basics: Lists vs Array. fit plots. Numpy examples [Slides](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/2/Numpy_Basics_slides.pdf), [Exercises](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/1/Exercise%203.html)
 
