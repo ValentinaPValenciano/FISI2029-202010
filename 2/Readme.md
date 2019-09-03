@@ -33,3 +33,5 @@ Clases y tareas:
 3. (__2019-08-21__) python intermediate: Numpy Basics: Lists vs Array. fit plots. Numpy examples [Slides](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/2/Numpy_Basics_slides.pdf), [Exercises](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/1/Exercise%203.html)[Solutions](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/2/Solucion%203_gaussian.html)
 
 4. (__2019-08-28__) Understanding Numpy and data structure [HTML](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/2/Numpy.html), [Slides](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/2/Numpy.slides.html#/)[Exercise](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/2/Programa_widget.html)
+
+5. (__2019-09-03__) Using random variables [Exercise](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/2/Ejercicio_5.html)
