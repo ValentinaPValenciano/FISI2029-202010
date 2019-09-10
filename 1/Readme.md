@@ -33,6 +33,6 @@ Clases y tareas:
 
 3. (__2019-08-20__) python intermediate: Numpy Basics: Lists vs Array. fit plots. Numpy examples [Slides](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/1/Numpy_Basics_slides.pdf), [Exercises](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/1/Exercise%203.html), [Solutions](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/1/Solucion%203_gaussian.html)
 
-4. (__2019-08-27__) Understanding Numpy and data structure [HTML](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/1/Numpy.html), [Slides](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/1/Numpy.slides.html#/)[Exercise](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/1/Programa_widget.html)
+4. (__2019-08-27__) Understanding Numpy and data structure [HTML](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/1/Numpy.html), [Slides](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/1/Numpy.slides.html#/)[Exercise](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/1/Programa_widget.html), [Solution](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/1/Solution_image_1.html)
 5. (__2019-09-03__) Using random variables [Exercise](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/1/Ejercicio_5.html)
 6. (__2019-09-10__) Markov chains and detailed balance [Exercise](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/1/Montecarlo%20Algorithm.html)
