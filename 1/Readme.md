@@ -35,3 +35,4 @@ Clases y tareas:
 
 4. (__2019-08-27__) Understanding Numpy and data structure [HTML](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/1/Numpy.html), [Slides](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/1/Numpy.slides.html#/)[Exercise](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/1/Programa_widget.html)
 5. (__2019-09-03__) Using random variables [Exercise](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/1/Ejercicio_5.html)
+6. (__2019-09-10__) Markov chains and detailed balance [Exercise](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/1/Montecarlo%20Algorithm.html)
