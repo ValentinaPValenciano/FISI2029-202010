@@ -37,3 +37,5 @@ Clases y tareas:
 5. (__2019-09-04__) Using random variables [Exercise](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/2/Ejercicio_5.html), [Solutions](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/2/Solution_5.html)
 
 6. (__2019-09-10__) Markov chains and detailed balance  [Exercise](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/2/Montecarlo%20Algorithm.html)
+
+7. (__2019-09-18__) Montecarlo Integration [Exercise](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/2/ejercicio%207.html)
