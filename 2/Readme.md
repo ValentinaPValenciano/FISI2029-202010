@@ -40,4 +40,4 @@ Clases y tareas:
 
 7. (__2019-09-18__) (No hay clase) Montecarlo Integration [Exercise](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/2/ejercicio%207.html)
 
-8. (__2019-09-25__) Integration (Gauss Quadrature and Convolutions) [Exercise](./)
+8. (__2019-09-25__) Integration (Gauss Quadrature and Convolutions) [Read this](https://en.wikipedia.org/wiki/Convolution), [Exercise](./)
