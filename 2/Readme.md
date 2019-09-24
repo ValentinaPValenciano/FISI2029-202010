@@ -38,4 +38,6 @@ Clases y tareas:
 
 6. (__2019-09-10__) Markov chains and detailed balance  [Exercise](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/2/Montecarlo%20Algorithm.html),[Solutions](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/2/Montecarlo%20Algorithm_solution.html)
 
-7. (__2019-09-18__) Montecarlo Integration [Exercise](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/2/ejercicio%207.html)
+7. (__2019-09-18__) (No hay clase) Montecarlo Integration [Exercise](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/2/ejercicio%207.html)
+
+8. (__2019-09-25__) Integration (Gauss Quadrature and Convolutions)
