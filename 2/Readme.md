@@ -32,12 +32,12 @@ Clases y tareas:
 
 3. (__2019-08-21__) python intermediate: Numpy Basics: Lists vs Array. fit plots. Numpy examples [Slides](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/2/Numpy_Basics_slides.pdf), [Exercises](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/1/Exercise%203.html)[Solutions](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/2/Solucion%203_gaussian.html)
 
-4. (__2019-08-28__) Understanding Numpy and data structure [HTML](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/1/Numpy.html), [Slides](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/1/Numpy.slides.html#/)[Exercise](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/1/Programa_widget.html), [Solution](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/2/Solution_image_2.html)
+4. (__2019-08-28__) Understanding Numpy and data structure [HTML](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/1/Numpy.html), [Slides](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/1/Numpy.slides.html#/)[Exercise](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/1/Programa_widget.html), [Solution](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/2/Solution_image_2.html) (Para calificar)
 
 5. (__2019-09-04__) Using random variables [Exercise](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/2/Ejercicio_5.html), [Solutions](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/2/Solution_5.html)
 
-6. (__2019-09-10__) Markov chains and detailed balance  [Exercise](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/2/Montecarlo%20Algorithm.html),[Solutions](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/2/Montecarlo%20Algorithm_solution.html)
+6. (__2019-09-10__) Markov chains and detailed balance  [Exercise](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/2/Montecarlo%20Algorithm.html),[Solutions](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/2/Montecarlo%20Algorithm_solution.html)  (Para calificar)
 
 7. (__2019-09-18__) (No hay clase) Montecarlo Integration [Exercise](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/2/ejercicio%207.html)
 
-8. (__2019-09-25__) Integration (Gauss Quadrature and Convolutions) [Read this](https://en.wikipedia.org/wiki/Convolution) [and this](https://www.cs.umd.edu/~djacobs/CMSC426/Convolution.pdf), [Exercise](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/1/Exercise_8.html)
+8. (__2019-09-25__) Integration (Gauss Quadrature and Convolutions) [Read this](https://en.wikipedia.org/wiki/Convolution) [and this](https://www.cs.umd.edu/~djacobs/CMSC426/Convolution.pdf), [Exercise](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/1/Exercise_8.html)  (Para calificar)
