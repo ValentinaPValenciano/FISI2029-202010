@@ -23,6 +23,9 @@ Se recomienda usar Ubuntu en cualquiera de sus distribuciones LTS. En el siguien
 
 __Importante:__ Dado que el hecho de tener un sistema operativo linux o una terminal como la de linux no nos asegura el poder trabajar con ``python`` haciendo uso de sus distintas librerias. Es necesario instalar alguna versión de ``python3`` para esto se sugiere hacer la instalación por medio de [Anaconda](https://www.anaconda.com/distribution/) ya que este software permite hacer un manejo de ambientes y así constrolar más facilmente que no haya conflicto entre las librerías.
 
+Notas:
+======
+En el siguiente [link](https://docs.google.com/spreadsheets/d/1P2-_5I8-kQ2Am37mX5LYDmbRV2Cvzm4xNiBBf3uth6E/edit?usp=sharing) podran encontrar sus calificaciones con los respectivos comentarios de cada ejercicio calificado.
 
 Clases y tareas:
 ================
