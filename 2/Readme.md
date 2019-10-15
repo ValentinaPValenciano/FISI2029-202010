@@ -45,4 +45,6 @@ Clases y tareas:
 
 8. (__2019-09-25__) Integration (Gauss Quadrature and Convolutions) [Read this](https://en.wikipedia.org/wiki/Convolution) [and this](https://www.cs.umd.edu/~djacobs/CMSC426/Convolution.pdf), [Exercise](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/1/Exercise_8.html)  (Para calificar)
 
-9. (__2019-10-09__) Differentiation, [Exercise](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/2/Exercise_9.html)  
+9. (__2019-10-09__) Differentiation, [Exercise](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/2/Exercise_9.html)
+
+10. (__2019-16-10__) Primcipal Component analysis [Exercise](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/2/Exercise_10(PCA).html) 
