@@ -42,4 +42,4 @@ Clases y tareas:
 7. (__2019-09-17__) Montecarlo Integration [Exercise](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/1/ejercicio%207.html)  (Para calificar)
 8. (__2019-09-24__) Integration (Gauss Quadrature and Convolutions) [Read this](https://en.wikipedia.org/wiki/Convolution) [and this](https://www.cs.umd.edu/~djacobs/CMSC426/Convolution.pdf), [Exercise](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/1/Exercise_8.html)
 9. (__2019-10-08__) Differentiation, [Exercise](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/1/Exercise_9.html)  
-10. (__2019-15-10__) Primcipal Component analysis [Exercise](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/1/Exercise_10(PCA).html)
+10. (__2019-15-10__) Primcipal Component analysis [Exercise](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/1/Exercise_10(PCA).html), [Entregar](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/1/Exercise_10_pca.html)
