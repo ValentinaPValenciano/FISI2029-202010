@@ -49,4 +49,6 @@ Clases y tareas:
 
 10. (__2019-16-10__) Principal Component analysis [Exercise](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/2/Exercise_10(PCA).html), [Entregar](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/2/Exercise_10_para_calificar_2.html)
 
-11. (__2019-23-10__) Understanding Fourier Transforms [Exercise](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/2/Ejercicio_Fourier.html)
+11. (__2019-23-10__) Understanding Fourier Transforms [Exercise](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/2/Ejercicio_Fourier.html), [Something interesting](https://www.cs.auckland.ac.nz/courses/compsci773s1c/lectures/ImageProcessing-html/fourier.html).
+
+12. (__2019-10-30__) First steps using git [readme](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/2/Git%20exercise.html) [Ejercicio](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/2/Ejercicio_12_git.html)
