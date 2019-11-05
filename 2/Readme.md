@@ -52,3 +52,5 @@ Clases y tareas:
 11. (__2019-23-10__) Understanding Fourier Transforms [Exercise](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/2/Ejercicio_Fourier.html), [Something interesting](https://www.cs.auckland.ac.nz/courses/compsci773s1c/lectures/ImageProcessing-html/fourier.html).
 
 12. (__2019-10-30__) First steps using git [readme](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/2/Git%20exercise.html) [Ejercicio](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/2/Ejercicio_12_git.html)
+
+13. (__2019-11-06__) Functions in C++ [Slides](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/2/C_exercise.slides.html#/) [Ejercicio](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/2/Exercise_C_13.html)
