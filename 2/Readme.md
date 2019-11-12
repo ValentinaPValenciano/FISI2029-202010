@@ -45,12 +45,14 @@ Clases y tareas:
 
 8. (__2019-09-25__) Integration (Gauss Quadrature and Convolutions) [Read this](https://en.wikipedia.org/wiki/Convolution) [and this](https://www.cs.umd.edu/~djacobs/CMSC426/Convolution.pdf), [Exercise](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/1/Exercise_8.html)  (Para calificar)
 
-9. (__2019-10-09__) Differentiation, [Exercise](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/2/Exercise_9.html)
+9. (__2019-10-09__) Differentiation, [Exercise](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/2/Exercise_9.html), [Solution](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/2/Exercise_9_Solution.html)
 
-10. (__2019-16-10__) Principal Component analysis [Exercise](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/2/Exercise_10(PCA).html), [Entregar](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/2/Exercise_10_para_calificar_2.html)
+10. (__2019-16-10__) Principal Component analysis [Exercise](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/2/Exercise_10(PCA).html), [Entregar](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/2/Exercise_10_para_calificar_2.html), [Solution](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/2/Exercise_10(PCA)_solution.html)
 
 11. (__2019-23-10__) Understanding Fourier Transforms [Exercise](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/2/Ejercicio_Fourier.html), [Something interesting](https://www.cs.auckland.ac.nz/courses/compsci773s1c/lectures/ImageProcessing-html/fourier.html).
 
 12. (__2019-10-30__) First steps using git [readme](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/2/Git%20exercise.html) [Ejercicio](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/2/Ejercicio_12_git.html)
 
 13. (__2019-11-06__) Functions in C++ [Slides](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/2/C_exercise.slides.html#/) [Ejercicio](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/2/Exercise_C_13.html)
+
+14. (__2019-11-13__) Solving ODE's [Slides](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/2/Ordinary%20differential%20equations%20(ODE).slides.html#/)
