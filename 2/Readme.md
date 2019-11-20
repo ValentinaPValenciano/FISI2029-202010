@@ -55,7 +55,7 @@ Clases y tareas:
 
 13. (__2019-11-06__) Functions in C++ [Slides](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/2/C_exercise.slides.html#/) [Ejercicio](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/2/Exercise_C_13.html)
 
-14. (__2019-11-13__) Solving ODE's [Slides](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/2/Ordinary%20differential%20equations%20(ODE).slides.html#/).
+14. (__2019-11-13__) Solving ODE's [Slides](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/2/Ordinary%20differential%20equations%20(ODE).slides.html#/). [Solution Euler 1D](https://raw.githubusercontent.com/JoseMontanaC/Laboratorio-Metodos-Computacionales/master/c_tests/Euler.cpp), [Solution Euler N-D](https://raw.githubusercontent.com/JoseMontanaC/Laboratorio-Metodos-Computacionales/master/c_tests/Euler_vectorial.cpp), [Image of theta vs time](https://raw.githubusercontent.com/JoseMontanaC/Laboratorio-Metodos-Computacionales/master/c_tests/Image_1.png), [Image of phase space](https://raw.githubusercontent.com/JoseMontanaC/Laboratorio-Metodos-Computacionales/master/c_tests/Image_2.png).
 
 15. (__2019-11-20__) Discrete dynamics, maps and symplectic integrators (Why to use them) [Slides](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/Chaos/Maps/Maps.slides.html#/), [HTML](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/Chaos/Maps/maps.html#/)
 
