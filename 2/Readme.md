@@ -55,4 +55,8 @@ Clases y tareas:
 
 13. (__2019-11-06__) Functions in C++ [Slides](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/2/C_exercise.slides.html#/) [Ejercicio](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/2/Exercise_C_13.html)
 
-14. (__2019-11-13__) Solving ODE's [Slides](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/2/Ordinary%20differential%20equations%20(ODE).slides.html#/)
+14. (__2019-11-13__) Solving ODE's [Slides](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/2/Ordinary%20differential%20equations%20(ODE).slides.html#/).
+
+15. (__2019-11-20__) Discrete dynamics, maps and symplectic integrators (Why to use them) [Slides](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/Chaos/Maps/Maps.slides.html#/), [HTML](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/Chaos/Maps/maps.html#/)
+
+16. (__2019-11-27__) Discrete dynamics, maps and symplectic integrators (2 part) [Slides](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/Chaos/Pendulum/Pendulum.slides.html#/), [html](https://josemontanac.github.io/Laboratorio-Metodos-Computacionales/Chaos/Pendulum/Pendulum.html#/), [Code pendulum cpp](https://raw.githubusercontent.com/JoseMontanaC/Laboratorio-Metodos-Computacionales/master/Chaos/Pendulum/Pendulum.cpp)
