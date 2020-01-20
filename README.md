@@ -1,5 +1,5 @@
-# FISI2029-201920
-Laboratorio Métodos Computacionales - Segundo Semestre 2019
+# FISI2029-202010
+Laboratorio Métodos Computacionales - Primer Semestre 2020
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jpmallarino/FISI2029-202010/master?urlpath=lab/tree/ipynb)
 
 Material del curso de Laboratorio de Métodos Computacionales de Uniandes
