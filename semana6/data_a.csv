@@ -1,0 +1,12 @@
+# Data from courses.atlas.illinois.edu/spring2016/STAT/STAT200/RProgramming/data/drug_response.csv
+# Animal A
+# Log(Dose), Delta Blood Pressure (mmHg)
+-7.0, 1.0
+-6.5, 5.0
+-6.0,14.0
+-5.5,19.0
+-5.0,23.0
+-4.5,26.0
+-4.0,26.0
+-3.5,27.0
+-3.0,27.0
