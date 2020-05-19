@@ -1,6 +1,6 @@
 # HW09 Headers (c++)
 
-100 puntos
+150 puntos
 
 Cree un script "tarea.sh" que:
     1.  compile un archivo "main.cpp" incluyendo el encabezado "funciones.h"
@@ -24,3 +24,9 @@ Ejecuta todo.
 
 ## grafico.pdf 20pts
 Si todo se genera automaticamente bien, y el grafico es bonito, 20 pts.
+
+
+## Subir a GIT 50pts
+Suba a su repositorio (el mismo de las clases anteriores) la carpeta de trabajo, esta debe contener "tarea.sh", "main.cpp", "funciones.h", "grafica.py".
+Entregar el enlace de esta carpeta.
+Por cada archivo adcional se restan 20 puntos. EJ. datos.txt, grafico.pdf y otras cosas que se les ocurran.
