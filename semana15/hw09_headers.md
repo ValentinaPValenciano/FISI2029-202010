@@ -20,7 +20,11 @@ Es la última entrega. ¡Feliz final de semestre!
 
 ### main.cpp  20pts
 Vamos a simular el movimiento rectilineo uniformemente acelerado de una piedra con 
+<<<<<<< HEAD
 altura inicial = 8.5 m y velocidad inicial 20 m/s hacia arriba. La evolucion temporal va a estar dada por
+=======
+altura inicial = 7.5 m y velocidad inicial 20 m/s hacia arriba. La evolucion temporal va a estar dada por
+>>>>>>> 56a4c32512678e18497692a81509444032815b64
 una funcion dentro de "funciones.h". Utilice "cout" para imprimir en pantalla tiempo y altura
 mientras que la altura de la piedra sea positiva.
 
