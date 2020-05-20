@@ -16,32 +16,34 @@ Es la última entrega. ¡Feliz final de semestre!
 * Entregue sólamente el enlace a la carpeta con la tarea.
 
 
-## Descripción de los ítems:
+# Descripción de los ítems:
 
-### main.cpp  20pts
+## main.cpp  20pts
+
 Vamos a simular el movimiento rectilineo uniformemente acelerado de una piedra con 
-<<<<<<< HEAD
 altura inicial = 8.5 m y velocidad inicial 20 m/s hacia arriba. La evolucion temporal va a estar dada por
-=======
-altura inicial = 7.5 m y velocidad inicial 20 m/s hacia arriba. La evolucion temporal va a estar dada por
->>>>>>> 56a4c32512678e18497692a81509444032815b64
 una funcion dentro de "funciones.h". Utilice "cout" para imprimir en pantalla tiempo y altura
 mientras que la altura de la piedra sea positiva.
 
-### funciones.h 20pts
+## funciones.h 20pts
+
 La evolucion temporal se implementa como una funcion RungeKutta4 que es invocada desde main.cpp
 
-### grafica.py 20pts
+## grafica.py 20pts
+
 Grafica los datos.
 
-### script.sh 20pts
+## script.sh 20pts
+
 Compila main.cpp, ejecuta y redirije a.out hacia datos.txt, llama el script de python que lee datos.txt y guarda la gráfica como pdf.
 
 ## grafico.pdf 20pts
+
 Si todo se genera automaticamente bien, y el grafico es bonito, 20 pts.
 
 
 ## Subir a GIT 50pts
+
 Suba a su repositorio (el mismo de las clases anteriores) la carpeta de trabajo, esta debe contener "tarea.sh", "main.cpp", "funciones.h", "grafica.py".
 Entregar el enlace de esta carpeta.
 Por cada archivo adcional se restan 20 puntos. EJ. datos.txt, grafico.pdf y otras cosas que se les ocurran.
@@ -49,7 +51,7 @@ Por cada archivo adcional se restan 20 puntos. EJ. datos.txt, grafico.pdf y otra
 
 
 
-## Cómo hacer que una función devuelva un array?
+# Cómo hacer que una función devuelva un array?
 
 Usamos apuntadores, en la Magistral lo explicará en detalle Juan Pablo, pero aquí
 hay un pedacito de código que lo hace.
